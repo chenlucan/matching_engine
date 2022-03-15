@@ -1,6 +1,6 @@
 # matching_engine
 - input file name: market_data_file.txt
-- no error handling, assuming input format 
+- no error handling, assuming correct input format
 - assume order id is int
 - tested in gcc 4.8.3@centos7 with c++11 enabled
 
